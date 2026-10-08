@@ -1,6 +1,6 @@
 # Absolute Purity for Motivic Cohomology in Dimensions at Most Three
 
-This paper proves absolute purity for the intrinsic motivic coefficient
+This preprint proves absolute purity for the intrinsic motivic coefficient
 $H=H\mathbf Z^{\mathbb A^1}=s_0KGL$ in low dimensions. For regular noetherian
 local rings with fraction fields of characteristic zero, integral point purity
 holds in dimension at most two without excellence, and in dimension at most
@@ -10,11 +10,11 @@ $\mathbf Z$, the same ambient dimension bounds apply, with both schemes
 excellent in dimension three.
 
 The proof combines filtered Gysin maps and Adams operations, valuative
-comparison and descent, and detection by smooth function fields. The paper
+comparison and descent, and detection by smooth function fields. The preprint
 also develops purity modulo invertible prime powers and integral purity over
 regular maps from mixed-characteristic DVRs.
 
-[Read the paper (PDF)](absolute-motivic-purity.pdf)
+[Read the preprint (PDF)](absolute-motivic-purity.pdf)
 
 ## AI use
 
