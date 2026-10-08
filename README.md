@@ -6,8 +6,7 @@ noetherian local rings in all characteristics, integral point purity holds
 in dimension at most two without excellence, and in dimension at most three
 under excellence. The residue fields need not be perfect. For regular closed
 immersions between regular noetherian schemes, the same ambient dimension
-bounds apply, with both schemes excellent in dimension three. No flatness
-over $\mathbf Z$ is required.
+bounds apply, with both schemes excellent in dimension three.
 
 The proof combines filtered Gysin maps and Adams operations, valuative
 comparison and descent, and detection by smooth function fields. The preprint
